@@ -1,4 +1,4 @@
-# Realtime Fruit Detection using YOLOv4
+# Real-time Fruit Detection using YOLOv4
 
 ## Business Overview
 
@@ -74,26 +74,5 @@ YOLOv4 is trained on the coco dataset, which has 80 classes that it can predict.
 ### 9. Predictions on Images
 
 ### 10. Predictions on Video
-
----
-
-## Key Concepts Explored
-
-1. Understanding Object Detection
-2. Transfer Learning and Pre-trained Models
-3. Understanding Problem Statement
-4. Google’s Open Image Dataset
-5. Data Labeling with LabelImg
-6. Introduction to YOLOv4
-7. Installing Prerequisites for YOLOv4
-8. Building YOLOv4 Object Detector
-9. Understanding How to Use Pre-trained Models of YOLO
-10. Customizing YOLOv4 Using Command Line Flags
-11. Preparing Dataset for Training YOLOv4
-12. Training Custom Object Detector with YOLO
-13. Training YOLO Model Using Checkpoints
-14. Understanding Mean Average Precision
-15. Storing and Displaying Detected Classes in an Image
-16. Predictions on a Video
 
 ---
